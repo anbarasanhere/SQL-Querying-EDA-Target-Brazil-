@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, 
   I'm Anbarasan</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-https://i0.wp.com/www.institutedata.com/wp-content/uploads/2023/12/The-relationship-between-data-science-and-coding.png?resize=1170%2C878&ssl=1
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anbarasanhere&label=Profile%20views&color=0e75b6&style=flat" alt="anbarasanhere" /> </p>
 
